@@ -1,0 +1,135 @@
+
+@font-face {
+    font-family: 'monster1'; 
+    src: url('monster.otf')
+        
+  }
+
+h1{
+    text-transform: capitalize;
+    text-align: center;
+    
+    font-family:'monster1';
+    font-size: 50px;
+    letter-spacing: 20px;
+    margin-top: 150px;
+   
+    color: antiquewhite;
+    font-size: 50px;
+    }
+title{
+    text-transform: uppercase;
+}
+.para1{
+color: aliceblue;
+font-family: 'Courier New', Courier, monospace;
+text-align: center;
+margin-top: 40px;
+line-height: 28px;
+}
+.btn1{
+     
+        display: block;
+        padding: 10 20px;
+        font-size: 16px;
+        font-weight: bold;
+        text-align: center;
+        text-decoration: none;
+        background-color: #4CAF50;
+        color: #fff;
+        border: 1px solid #4CAF50;
+        border-width: 20px;
+        border-radius: 3px;
+        cursor: pointer;
+        transition:0.3s;
+        display: flex;
+        float: initial;
+        margin-right: 0px;
+        margin-left:580px;
+        margin-top: 55px;
+        text-transform: capitalize;
+        position: absolute;
+        
+    }
+
+    /* Hover effect for the button */
+    .btn1:hover {
+        background-color:aqua;
+        border-color: aqua;
+        color: black;
+    }
+    .para2{
+        color: blue;
+        font-style: italic;
+        font-family: 'monster';
+        margin-left: 530px;
+        margin-right: 500px;
+        width: auto;
+        margin-top: 25px;
+    }
+
+p{
+    color: antiquewhite;
+    font-size: 16px;
+    margin-top: 2px;
+}
+.dot{
+    display: block;
+    margin-top:10px;
+    margin-bottom: 3px;
+}
+.same1{
+    display: block;
+    margin-top:1px;
+}
+.dot,.same1{
+    margin-top: 48px;
+}
+.college{
+   font-family:serif;
+   margin-top: 25px;
+   background: grey;
+   margin-left: 1180px;
+   display:flex;
+   width:150px;
+   
+}
+.astro{
+    margin-left: 1180px;
+    
+}
+.astro1{
+text-align:center;
+
+}
+.astro_para{
+    text-transform: capitalize;
+   
+    margin-bottom:5px;
+    display: flex;
+    font-size: small;
+    font-family:monospace;
+  
+    margin-left:5px;
+}
+.college,.astro,.astro_para{
+    font-size: smaller;
+    
+}
+.scroll1{
+    font-size: 12px;
+    text-align:center;
+    color:white;
+   
+}
+.scroll{
+    font-style: normal;
+    font-size: 11px;
+    font-family: 'Courier New', Courier, monospace;
+
+    color:blueviolet
+    ;
+}
+.college,.astro,.astro1,.astro_para,.scroll,.scroll1{
+    margin-bottom: px;
+}
